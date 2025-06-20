@@ -39,7 +39,7 @@ npm start
 ## Development
 
 The app is built using:
-- React Native
+- React Native (Be sure to go to https://reactnative.dev/docs/set-up-your-environment to setup your Android emulator first)
 - Expo
 - AsyncStorage for data persistence
 
